@@ -1,0 +1,87 @@
+ .inclus{
+    /* background-color: black; */
+    height: 900px;
+    /* position: relative; */
+    /* z-index: 1; */
+ } 
+.clusiv{
+    position: relative;
+    /* z-index: 1;  */
+    height: 900px; 
+
+ } 
+ /* .Abou{
+    
+ } */
+.exclusive{
+    position: absolute;
+    font-size: 22px;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    /* color: rgb(5, 5, 19); */
+    /* z-index: 3; */
+    text-align: center;
+    margin-left: 80px;
+}
+.clusiv img{
+    border-radius: none;
+    border-style:none;
+    opacity: 50%;
+    height: 900px;
+    /* width: 300px; */
+    /* top:10px ; 
+    left: 80px; */
+    /* position:relative;
+    z-index: 1; */
+}
+.menu-btn{
+    /* margin-right: 10px; */
+    /* background-color: white; */
+    border-radius: 5px;
+}
+.dropdown-menu{
+    margin: 25px;
+    border-radius: 10px;
+
+}
+.menu-content{
+    max-width: 20px;
+}
+button.Submit{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+}
+form.fom{
+    /* position: row;*/
+    width: 75%;
+    /* text-align: center; */
+}
+.inpname{
+    position: column;
+    display: flex;
+    padding-top: 40px;
+    /* padding-bottom: 20px; */
+    margin-bottom: 20px;
+
+}
+.inpname input{
+    /* margin-right: 20px; */
+    width: 30%;
+}
+.pho{
+    display: flex;
+    margin-bottom: 20px;
+}
+.loc{
+    display: flex;
+    margin-bottom: 20px;
+}
+input{
+    padding-bottom: 20px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    /* margin-right: 60px; */
+}

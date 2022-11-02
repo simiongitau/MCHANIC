@@ -1,0 +1,61 @@
+.contactuss{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: row;
+    height: 380px;
+}
+    
+    /* height:900px;
+ }/*
+.formss{
+    height: 500px;
+    width: 50%;
+    float: left;
+    /* flex-direction: row-reverse;; */
+    /* display: column; */
+
+ /* .Addrreess{
+    height: 500px;
+    width: 50%;
+    float: right;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    /* position: relative; */
+    /* display:column; */
+
+/* .row{ */
+    /* display: flex; */
+    /* width: 35%;
+}
+.column{ */
+    /* flex: 45%; */
+    /* float: right;
+    padding: 10px;
+    height: 500px;
+}
+
+}
+.row:after{
+    content: "";
+    display: contents;
+    clear: both;
+}  */
+.float-container{
+    border: 3px;
+    padding: 20px;
+}
+.float-child{
+    width: 50%;
+    float: right;
+    padding-right: 150px;
+    /* margin-left: 20px; */
+    
+}
+.infom{
+    padding: 80px;
+}
+form.lab{
+margin-right: 20px;
+background-color: none;
+}

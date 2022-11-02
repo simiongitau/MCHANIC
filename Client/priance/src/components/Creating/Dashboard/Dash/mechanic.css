@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.All{
+    height:800px;
+    background-color: whitesmoke;
+}
+
+.navv{
+    align-content: flex-start;
+    display:flex;
+    /* margin-left: 260px; */
+    font-size: 2rem;
+    background-color: darkolivegreen;
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+    overflow-y: scroll;
+    white-space: nowrap;
+}
+.navvv{
+    float: right;
+    width: 80%;
+    align-items:baseline;
+}
+.navvv button{
+    height: 30px;
+    width: 70px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.navvv input{
+    border-radius: 5px;
+    height: 40px;
+}
+.tas{
+    /* display: flex; */
+    width: 100%;
+}
+.tas1{
+    float: left;
+    margin-right: 2%;
+    width: 23%;
+    border: 1rem;
+    border-radius: 5px;
+    border-color: black;
+    align-items: flex-start;
+    
+}
+.tas2{
+    float: right;
+    width: 23%;
+    margin-right: 2%;
+    border-color: black;
+    border: bold black;
+    border-radius: 5px;
+    align-items: flex-start;
+    
+}
+

@@ -1,0 +1,33 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  background-color: gray;
+  height: 150px;
+}
+.social {
+  float: left;
+  /* width: 30%; */
+  text-align: center;
+}
+.social i {
+  gap: 10px;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+.i {
+  gap: 10px;
+  font-size: 20px;
+}
+.address {
+  float: right;
+  width: 30%;
+}
+.company {
+  float: left;
+  /* margin-right: 30%; */
+  /* width: 30%; */
+}
+li {
+  list-style: none;
+}

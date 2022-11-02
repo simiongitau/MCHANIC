@@ -1,0 +1,30 @@
+/* form{
+    /* background-color: green; */
+    /* width: 80%; */
+    /* margin: 40px;
+} */
+.neo input{
+    width: 40%;
+}
+form input{
+    width: 50%;
+    margin: 2.5px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
+.submit{
+margin: 20px;
+}
+form{
+    /* margin: 120px; */
+    border-radius: 8px;
+    background-color: lightgray;
+    padding: 70px;
+    width: 50%;
+    /* column-width: 20%; */
+    align-content: center;
+    margin-left: 270px;
+}
+.logg1{
+    margin: 20px;
+}
